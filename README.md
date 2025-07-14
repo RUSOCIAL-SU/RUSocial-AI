@@ -11,6 +11,9 @@ RUSocial OFM AI
 - 0.06 / 15k-40k Bulk Convo's
 - 0.05 / 40k+ Bulk Convo's
 
+[NOTE]
+- API ONLY
+
 <img width="1351" height="729" alt="image" src="https://github.com/user-attachments/assets/59550a1d-fb3b-42ed-a0a7-53c98dfcc397" />
 <img width="1153" height="779" alt="image" src="https://github.com/user-attachments/assets/f888366a-d2bd-4d50-8203-638f64d04d87" />
 <img width="1522" height="868" alt="image" src="https://github.com/user-attachments/assets/3a4a1c19-c108-4ae5-8287-50261a008c4e" />
