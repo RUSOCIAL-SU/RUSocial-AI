@@ -12,7 +12,7 @@ RUSocial OFM AI
 - 0.05 / 40k+ Bulk Convo's
 
 # Blacklists
-- https://paste.dmca.sh/paste/93cd99ff-634a-49d0-93f2-de993b908b70
+- https://paste.dmca.sh/paste/8ee7a59b-bce7-458e-a7f9-acfb30be3efc
 
 [NOTE]
 - API ONLY
