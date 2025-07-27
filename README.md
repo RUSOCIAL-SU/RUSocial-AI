@@ -10,6 +10,7 @@ RUSocial OFM AI
 - 0.07 / 1k-15k Bulk Convo's
 - 0.06 / 15k-40k Bulk Convo's
 - 0.05 / 40k+ Bulk Convo's
+- $$ p/m / Unmetered Plan 
 
 # Blacklists
 - https://paste.dmca.sh/paste/dea876dd-f129-4e9d-94fd-c9071c3ff350
