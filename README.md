@@ -1,7 +1,7 @@
 > **⚠️ WARNING:**  
 > **‼️ WE DO NOT DEAL ON TELEGRAM — WATCH OUT FOR SCAMMERS ‼️**
 
-## RUSocial-AI
+# RUSocial-AI
 RUSocial OFM AI
 
 [Contact]
@@ -16,7 +16,7 @@ RUSocial OFM AI
 - $$ p/m / Unmetered Plan 
 
 # Blacklists
-- https://paste.dmca.sh/paste/ff9cc4d3-0d11-48b8-8614-c5dc60a13f14
+- https://paste.dmca.sh/paste/167876e4-0c10-428f-b5af-d0b0f3d88640
 
 [NOTE]
 - API ONLY
