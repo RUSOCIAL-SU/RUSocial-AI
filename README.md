@@ -16,7 +16,7 @@ RUSocial OFM AI
 - $$ p/m / Unmetered Plan 
 
 # Blacklists
-- https://paste.dmca.sh/paste/749d273d-8520-4517-ba4f-0a67a6e98cb1
+- https://paste.dmca.sh/paste/28e33fe5-bd16-4572-a48e-552ca1eecaab
 
 [NOTE]
 - API ONLY
