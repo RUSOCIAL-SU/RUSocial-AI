@@ -1,7 +1,4 @@
-> **⚠️ WARNING:**  
-> **‼️ WE DO NOT DEAL ON TELEGRAM — WATCH OUT FOR SCAMMERS ‼️**
-
-# RUSocial-AI
+## RUSocial-AI
 RUSocial OFM AI
 
 [Contact]
