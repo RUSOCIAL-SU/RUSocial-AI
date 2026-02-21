@@ -4,6 +4,7 @@ RUSocial OFM AI
 [Contact]
 - Discord: rusocial (794009760755351593)
 - Discord Server: https://discord.gg/rusocial
+- Telegram Channel: https://t.me/rusocial_io
 
 [Prices]
 - 0.12 / Single Conversation
@@ -24,6 +25,3 @@ RUSocial OFM AI
 <img width="1984" height="860" alt="image" src="https://github.com/user-attachments/assets/8cb931bd-2b2c-4e44-9e0a-031ecddec3a7" />
 <img width="879" height="680" alt="image" src="https://github.com/user-attachments/assets/4530f248-b9b8-4ff3-af9c-5b476eba95af" />
 <img width="1533" height="1091" alt="image" src="https://github.com/user-attachments/assets/41dcd808-73cb-465f-9f8b-69020ede2348" />
-
-> **⚠️ WARNING:**  
-> **‼️ WE DO NOT DEAL ON TELEGRAM — WATCH OUT FOR SCAMMERS ‼️**
