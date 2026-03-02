@@ -7,11 +7,7 @@ RUSocial OFM AI
 - Telegram Channel: https://t.me/rusocial_io
 
 [Prices]
-- 0.12 / Single Conversation
-- 0.07 / 1k-15k Bulk Convo's
-- 0.06 / 15k-40k Bulk Convo's
-- 0.05 / 40k+ Bulk Convo's
-- $$ p/m / Unmetered Plan 
+- 200$ p/m Unlimted
 
 # Blacklists
 - https://paste.dmca.sh/paste/e3d05ad9-9710-468c-a139-8087ca269e01
