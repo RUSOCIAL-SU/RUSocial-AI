@@ -1,4 +1,4 @@
-# RUSocial-AI
+## RUSocial-AI
 RUSocial OFM AI
 
 [Contact]
