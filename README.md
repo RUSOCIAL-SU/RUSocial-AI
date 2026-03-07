@@ -10,7 +10,7 @@ RUSocial OFM AI
 - 200$ p/m Unlimted
 
 # Blacklists
-- https://paste.dmca.sh/paste/a08ff6fe-9103-4188-95bf-385434a7e229
+- https://paste.dmca.sh/paste/9868e1e9-a28f-4cd8-af86-34c513624bac
 
 [NOTE]
 - API ONLY
